@@ -131,8 +131,5 @@ R"===(
 )===";
 #endif
 
-
 } // namespace xmrig
-
-
 #endif /* XMRIG_CONFIG_DEFAULT_H */
